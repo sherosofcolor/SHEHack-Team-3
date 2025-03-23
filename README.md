@@ -21,7 +21,7 @@ Helping working mothers smoothly return to work after maternity leave.
 - **AI Tools:** ApyHub (summarization), vader-sentiment (mood-based suggestions)
 
 ## 📎 Submission Links
-- **[Video Demo](#)**  
+- **[Video Demo](#)** https://northeastern-my.sharepoint.com/:v:/g/personal/poojary_sa_northeastern_edu/EaHWrX-it1dFsGWs2kYr5LQB8d74bDYNLUoRLvPIkOjFTA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=YbVd3s
 - **[GitHub Repository](#)**
 - **Frontend**: https://github.com/sanjana2296/sheHack
 - **Backend**: https://github.com/sanjana2296/sheHackBackend
